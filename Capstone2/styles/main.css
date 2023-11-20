@@ -17,12 +17,16 @@ h2 {
 }
 
 .card-text {
+  background-color: rgb(77, 74, 74);
+  opacity: 65%;
   font-size: 28px;
   color: rgb(255, 255, 255);
+  -webkit-text-stroke: 0.8px;
+  -webkit-text-stroke-color: black;
 }
 
 .card{
-  opacity: 65%;
+  background-color: rgb(187, 184, 184);
   width: 29vw;
   border: 5px solid #8E9775;
   margin: 0.1em 0.1em 0 0;
@@ -31,6 +35,8 @@ h2 {
   min-height: 26vh;
   font-size: 4vh
 }
+
+
 
 
 
